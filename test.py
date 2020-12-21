@@ -6,4 +6,4 @@ def execute(test):
 
 print(execute(2))
 print(countChar("test"))
-print(countData("test"))
+print(countData("test")
